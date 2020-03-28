@@ -227,7 +227,7 @@ public class MainFragment extends Fragment {
             return;
         }
 
-        String APIKey = "trnsl.1.1.20200328T130527Z.3efadfdf4c87e140.3751421297d0661ff61b46c3646e9970cc23f0af";
+        String APIKey = "Enter Your API key here";
         String language1 = String.valueOf(spinner1.getSelectedItem());
         String language2 = String.valueOf(spinner2.getSelectedItem());
 
