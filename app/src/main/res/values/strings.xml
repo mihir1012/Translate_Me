@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Translate Me!!!</string>
+    <string name="text_translate">Translate</string>
+    <string name="text_favourites">Favourites</string>
+    <string name="text_history">History</string>
+    <string name="delete_confirmation_of_favourite_words">Do you want to delete?</string>
+    <string name="delete_confirmation_of_history_words">Do you want to delete?</string>
+    <string name="history_search_hint">Search Hint</string>
+    <string name="favourite_search_hint">Favourite search hint</string>
+    <string name="no_words_in_favourites">No words in Favourite</string>
+    <string name="no_words_in_history">No words in history</string>
+    <string name="write_word">Write words</string>
+    <string name="api_info">Translated Via Yandex translator Service</string>
+    <string name="link">http://translate.yandex.ru/</string>
+</resources>
