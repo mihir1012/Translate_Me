@@ -227,7 +227,7 @@ public class MainFragment extends Fragment {
             return;
         }
 
-        String APIKey = "Enter Your API key here";
+        String APIKey = "Enter Api key here";
         String language1 = String.valueOf(spinner1.getSelectedItem());
         String language2 = String.valueOf(spinner2.getSelectedItem());
 
